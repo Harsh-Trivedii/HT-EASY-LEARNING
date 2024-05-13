@@ -1,0 +1,1 @@
+The Tips and Suggestions folder will include all the material related to the tips and suggestions regarding how to built perfect resume, how to optimize linkedin, ATS score, must do interview topics and many more.
