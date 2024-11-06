@@ -1,6 +1,13 @@
 # HT EASY LEARNING
 
 Welcome to HT EASY LEARNING repository! This is where we upload all the study materials, code snippets, and resources discussed in our YouTube channel with the same name.
+## Table of Contents
+1. [About](#about)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
 
 ## About HT EASY LEARNING
 
